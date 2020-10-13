@@ -9,7 +9,7 @@
 	<description>测试第二个maven工程</description>
 
 	<properties>
-		<junit.version>4.0</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>
 
 	<dependencies>
